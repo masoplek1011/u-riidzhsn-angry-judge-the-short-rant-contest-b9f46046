@@ -10,8 +10,8 @@ by a program for make.fun's "Angry Judge: The Short Rant Contest" bounty.
 ## The rant
 
 > My microwave has been beeping for ninety seconds because I didn't sprint
-> over to rescue a soggy burrito. It's not a newborn. It's reheated bean
-> paste in a cardboard coffin. It doesn't miss me — it misses an audience.
+> to rescue a soggy burrito. It's not a newborn. It's reheated bean
+> paste in a cardboard coffin. It doesn't miss me—it misses an audience.
 > Accept my abandonment and shut up.
 
 ## How it works

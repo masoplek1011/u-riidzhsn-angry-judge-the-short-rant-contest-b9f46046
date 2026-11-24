@@ -7,7 +7,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const RANT = `My microwave has been beeping for ninety seconds because I didn't sprint over to rescue a soggy burrito. It's not a newborn. It's reheated bean paste in a cardboard coffin. It doesn't miss me — it misses an audience. Accept my abandonment and shut up.`;
+const RANT = `My microwave has been beeping for ninety seconds because I didn't sprint to rescue a soggy burrito. It's not a newborn. It's reheated bean paste in a cardboard coffin. It doesn't miss me—it misses an audience. Accept my abandonment and shut up.`;
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR;
 if (!outDir) {
